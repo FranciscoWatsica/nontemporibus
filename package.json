@@ -1,0 +1,20 @@
+{
+  "name": "nontemporibus",
+  "main": "./target/src/index.js",
+  "typings": "./target/src/index.d.ts",
+  "version": "1.0.0",
+  "files": [
+    "./target/src"
+  ],
+  "dependencies": {
+    "fp-ts": "^0.2.1",
+    "io-ts": "^0.3.0",
+    "tslint": "^5.1.0",
+    "typescript": "^2.2.2"
+  },
+  "author": "EstevanWeissnat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FranciscoWatsica/nontemporibus.git"
+  }
+}
